@@ -16,7 +16,7 @@ Especialista en control de inventarios críticos (MRO), conciliación de compras
 ### 🛠️ Entorno de Trabajo & Estándares Técnicos
 
 * **ERP & Gestión:** SAP ERP (MM / WM), SAP Tables (`EKKO`, `EKPO`, `EKBE`), WMS.
-* **Bases de Datos & Analítica:** Microsoft SQL Server 2022, T-SQL, Azure Data Studio, Power BI Enterprise.
+* **Bases de Datos & Analítica:** Microsoft SQL Server 2022, T-SQL, Azure Data Studio, Power BI.
 * **Metodología de Control:** Conciliación Relacional de Compras, Detección de Compras Maverick, Six Sigma (DMAIC).
 
 ---

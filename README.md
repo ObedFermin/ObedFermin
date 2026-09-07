@@ -1,7 +1,7 @@
 # Obed Fermin Carrillo
 ### Ingeniero Industrial | Control Operativo, Auditoría MRO & Data Architecture
 
-Especialista en control de inventarios críticos (MRO), conciliación de compras en SAP ERP y optimización de márgenes operativos y maquinaria pesada. Enfoque centrado en la erradicación de fugas fiduciarias y trazabilidad integral del ciclo Procure-to-Pay mediante auditoría relacional con T-SQL.
+Especialista en control de inventarios críticos (MRO), conciliación de compras en SAP ERP y optimización de márgenes operativos en operaciones de maquinaria pesada. Enfoque centrado en la erradicación de fugas fiduciarias y trazabilidad integral del ciclo Procure-to-Pay mediante auditoría relacional con T-SQL.
 
 ---
 
